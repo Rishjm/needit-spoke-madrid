@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">1ae13b9b1b12330077fa2136ec4bcb89</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">831ae3571b12330077fa2136ec4bcbc2</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-03 07:18:15</sys_created_on>
+        <sys_id>9dc4f31f1b12330077fa2136ec4bcb7d</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_11603_needit_spo">46392b931b12330077fa2136ec4bcb8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">46392b931b12330077fa2136ec4bcb8d</sys_scope>
+        <sys_update_name>sys_hub_action_instance_9dc4f31f1b12330077fa2136ec4bcb7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-03 07:54:18</sys_updated_on>
+        <ui_id>864c39e2-7c96-4eb2-a7ed-b8daf593aa19</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=9dc4f31f1b12330077fa2136ec4bcb7d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9dc4f31f1b12330077fa2136ec4bcb7d</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-03 07:18:24</sys_created_on>
+        <sys_id>e3c43b1f1b12330077fa2136ec4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-03 07:18:24</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">dca4f71f1b12330077fa2136ec4bcb18</variable>
+    </sys_variable_value>
+</record_update>
